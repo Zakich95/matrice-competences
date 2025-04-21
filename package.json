@@ -1,10 +1,7 @@
 {
   "name": "matrice-competences",
   "version": "1.0.0",
-<<<<<<< HEAD
-=======
   "private": true,
->>>>>>> 2327275150f819c6f672a3f6f11644103f4dbb63
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -15,13 +12,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^4.0.0"
-  }
-}
-=======
     "vite": "^4.3.9"
   }
 }
->>>>>>> 2327275150f819c6f672a3f6f11644103f4dbb63
